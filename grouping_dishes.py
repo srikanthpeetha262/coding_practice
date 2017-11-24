@@ -104,11 +104,20 @@ def groupingDishes(dishes):
 
 
 def main():
-
+	'''
 	menu = [["Salad", "Tomato", "Cucumber", "Salad", "Sauce"],
             ["Pizza", "Tomato", "Sausage", "Sauce", "Dough"],
             ["Quesadilla", "Chicken", "Cheese", "Sauce"],
             ["Sandwich", "Salad", "Bread", "Tomato", "Cheese"]]	
+	'''
+	    
+	menu = [["Pasta", "Tomato Sauce", "Onions", "Garlic"],
+            ["Chicken Curry", "Chicken", "Curry Sauce"],
+            ["Fried Rice", "Rice", "Onions", "Nuts"],
+            ["Salad", "Spinach", "Nuts"],
+            ["Sandwich", "Cheese", "Bread"],
+            ["Quesadilla", "Chicken", "Cheese"]]
+
 	print "\nThe given data of items and ingredients are\n" 
 	print menu
 	groupingDishes(menu)
