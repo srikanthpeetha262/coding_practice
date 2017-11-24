@@ -2,7 +2,7 @@
 ######################################################################
 Author: Srikanth Peetha
 Date: 11-24-2017
-About: Pythin practice questions from the web
+About: Python practice questions from the web
 ######################################################################
 
 QUESTION:
