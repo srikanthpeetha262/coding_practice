@@ -3,6 +3,8 @@
 Author: Srikanth Peetha
 Date: 11-24-2017
 About: Python practice questions from the web
+
+Task: Rotate matrix (90 degress, clockwise)
 ######################################################################
 
 
